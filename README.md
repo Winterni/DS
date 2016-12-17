@@ -1,2 +1,9 @@
+2016/12/17 Start DS.
 
-B.S.Work
+I will show some note in there.
+
+There are so many class i want to learn.
+
+First class is DS.
+
+
